@@ -17,4 +17,7 @@ O sistema de requisições faz parte de um projeto integrado entre as disciplina
   - Execute o arquivo create.js através do cmd para criar e popular a tabela no banco.
   ![Tabela](https://github.com/DaniloFerraz/SistemaRequisicao/blob/master/img/create.jpg)
   - Execute o arquivo index.js para ativar a API.
+  
+  
+  
   ![API](https://github.com/DaniloFerraz/SistemaRequisicao/blob/master/img/index.jpg)
